@@ -1,4 +1,4 @@
-# show-password
+# show/hide password
 
 ## Project setup
 ```
